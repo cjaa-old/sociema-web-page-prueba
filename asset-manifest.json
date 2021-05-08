@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sociema-web-page-prueba/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sociema-web-page-prueba/static/js/main.1168d481.chunk.js",
+    "main.js.map": "/sociema-web-page-prueba/static/js/main.1168d481.chunk.js.map",
+    "runtime-main.js": "/sociema-web-page-prueba/static/js/runtime-main.7788711c.js",
+    "runtime-main.js.map": "/sociema-web-page-prueba/static/js/runtime-main.7788711c.js.map",
+    "static/js/2.f1ac1cbd.chunk.js": "/sociema-web-page-prueba/static/js/2.f1ac1cbd.chunk.js",
+    "static/js/2.f1ac1cbd.chunk.js.map": "/sociema-web-page-prueba/static/js/2.f1ac1cbd.chunk.js.map",
+    "static/js/3.09a61a44.chunk.js": "/sociema-web-page-prueba/static/js/3.09a61a44.chunk.js",
+    "static/js/3.09a61a44.chunk.js.map": "/sociema-web-page-prueba/static/js/3.09a61a44.chunk.js.map",
+    "index.html": "/sociema-web-page-prueba/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sociema-web-page-prueba/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f1ac1cbd.chunk.js.LICENSE.txt": "/sociema-web-page-prueba/static/js/2.f1ac1cbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sociema-web-page-prueba/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7788711c.js",
+    "static/js/2.f1ac1cbd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1168d481.chunk.js"
+  ]
+}
